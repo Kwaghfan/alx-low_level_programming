@@ -1,1 +1,1 @@
-int main(void)
+#ifndef MAIN_H
